@@ -7,7 +7,7 @@ A web application for learning Data Structures and Algorithms.
 - DSA topics
 - Difficulty levels
 - Algorithm explanations
-- Interactive examples
+
 
 ## Technologies
 
